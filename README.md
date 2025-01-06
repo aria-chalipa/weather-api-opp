@@ -15,6 +15,8 @@ This is a simple weather application that fetches weather data from the OpenWeat
 
 - HTML
 - CSS
+- bootstrap
+- jquery
 - JavaScript
 - OpenWeatherMap API
 
